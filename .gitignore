@@ -1,0 +1,10 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter and VSCode settings
+.ipynb_checkpoints/
+.vscode/
+
+# Ignore data (optional)
+data/*.csv
